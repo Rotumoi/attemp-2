@@ -1,0 +1,18 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D412-74CA
+
+ Directory of C:\Users\user\OneDrive\Desktop\Syntax
+
+03/23/2023  08:14 PM    <DIR>          .
+03/23/2023  11:57 AM    <DIR>          ..
+03/23/2023  08:14 PM                 9 .gitignore
+03/23/2023  08:03 PM               526 ex.html
+03/23/2023  01:53 PM             1,831 home.html
+03/23/2023  12:58 PM                 0 home.jss
+03/23/2023  12:27 PM    <DIR>          images
+03/23/2023  12:29 PM               283 index.html
+03/23/2023  12:26 PM                 0 index.js
+03/23/2023  08:17 PM                 0 log.txt
+03/23/2023  12:27 PM                 0 style.css
+               8 File(s)          2,649 bytes
+               3 Dir(s)  312,025,243,648 bytes free
